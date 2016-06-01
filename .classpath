@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="lib/hadoop-common-2.2.0.jar"/>
+	<classpathentry kind="lib" path="lib/hadoop-yarn-common-2.2.0.jar"/>
+	<classpathentry kind="lib" path="lib/hadoop-yarn-server-common-2.2.0.jar"/>
+	<classpathentry kind="lib" path="lib/hadoop-yarn-server-nodemanager-2.2.0.jar"/>
+	<classpathentry kind="lib" path="lib/hadoop-yarn-api-2.2.0.jar"/>
+	<classpathentry kind="lib" path="lib/com.springsource.org.apache.commons.logging-1.1.1.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jdk1.7.0_71"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
